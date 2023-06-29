@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/misfit-product/static/css/main.1dff7b6e.css",
+    "main.js": "/misfit-product/static/js/main.8f90e47e.js",
+    "index.html": "/misfit-product/index.html",
+    "main.1dff7b6e.css.map": "/misfit-product/static/css/main.1dff7b6e.css.map",
+    "main.8f90e47e.js.map": "/misfit-product/static/js/main.8f90e47e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dff7b6e.css",
+    "static/js/main.8f90e47e.js"
+  ]
+}
